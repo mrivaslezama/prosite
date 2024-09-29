@@ -22,4 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+https://btihen.dev/posts/ruby/rails_7_0_base_setup/
+
 # prosite
